@@ -1,0 +1,6 @@
+In git we first create new repo in that create new file and save 
+copy remote repo path(git path)
+create new folder(git file we have), right click and select git bash option
+then bash cmd is open, there first have to clone our remote repo file to local system
+by using git clone path(remote repo path//git path//) cmd
+by using this cmd we are able to save our remote repo to local repo
